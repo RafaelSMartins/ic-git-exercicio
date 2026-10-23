@@ -1,4 +1,4 @@
-# ic-git-exercicio
+# Projeto de Introdução à Computação - Versão A
 
 Repositório dos exercícios de Git & GitHub de Introdução à Computação.
 
